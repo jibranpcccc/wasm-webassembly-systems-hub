@@ -1,5 +1,24 @@
 [
   {
+    "id": "wasm-webassembly-systems-hub-reddit-20260919-1",
+    "title": "r/MachineLearning Research",
+    "platform": "Reddit",
+    "category": "Machine Learning",
+    "memberCount": "2,900,000+ members",
+    "description": "Premier forum for machine learning research, theoretical papers, benchmark debates, and open-source models.",
+    "joinUrl": "https://www.reddit.com/r/MachineLearning/",
+    "tags": [
+      "machine-learning",
+      "ai",
+      "research",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-19"
+  },
+  {
     "id": "wasm-webassembly-systems-hub-forum-20260918-1",
     "title": "DEV Community WebDev Hub",
     "platform": "Forum",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-18"
   },
   {

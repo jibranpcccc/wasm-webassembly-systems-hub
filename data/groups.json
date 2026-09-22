@@ -1,5 +1,24 @@
 [
   {
+    "id": "wasm-webassembly-systems-hub-discord-20260922-1",
+    "title": "OpenAI Official Discord",
+    "platform": "Discord",
+    "category": "Generative AI",
+    "memberCount": "550,000+ members",
+    "description": "Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.",
+    "joinUrl": "https://discord.gg/openai",
+    "tags": [
+      "openai",
+      "chatgpt",
+      "api",
+      "discord"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-09-22"
+  },
+  {
     "id": "wasm-webassembly-systems-hub-reddit-20260921-1",
     "title": "r/ChatGPT AI Community",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-09-21"
   },
   {

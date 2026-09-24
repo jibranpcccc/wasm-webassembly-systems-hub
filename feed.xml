@@ -4,10 +4,17 @@
     <title>WASM &amp; WebAssembly Systems Hub</title>
     <link>https://wasm-webassembly-systems-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 23 Sep 2026 06:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 06:06:04 GMT</lastBuildDate>
     <atom:link href="https://wasm-webassembly-systems-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                            <item>
+                                <item>
+      <title>📅 Today's Fresh Pick: Hugging Face Community Discord (Discord)</title>
+      <link>https://discuss.huggingface.co</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-discord-20260924-1-2026-09-24</guid>
+      <pubDate>Thu, 24 Sep 2026 06:06:04 GMT</pubDate>
+      <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Hub for the open-source AI community discussing Transformers, Diffusers, model weights, and Hugging Face Spaces.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Midjourney Official Discord (Discord)</title>
       <link>https://discord.gg/midjourney</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-discord-20260923-1-2026-09-23</guid>

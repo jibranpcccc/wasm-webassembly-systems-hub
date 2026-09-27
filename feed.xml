@@ -4,10 +4,17 @@
     <title>WASM &amp; WebAssembly Systems Hub</title>
     <link>https://wasm-webassembly-systems-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 25 Sep 2026 06:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 06:06:18 GMT</lastBuildDate>
     <atom:link href="https://wasm-webassembly-systems-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                    <item>
+                                        <item>
+      <title>📅 Today's Fresh Pick: r/StableDiffusion Local Art (Reddit)</title>
+      <link>https://www.reddit.com/r/StableDiffusion/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-20260927-1-2026-09-27</guid>
+      <pubDate>Sun, 27 Sep 2026 06:06:18 GMT</pubDate>
+      <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Community dedicated to Stable Diffusion checkpoints, LoRAs, ComfyUI workflows, ControlNet, and SDXL rendering.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/Midjourney Prompt Engineering (Reddit)</title>
       <link>https://www.reddit.com/r/Midjourney/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-20260925-1-2026-09-25</guid>

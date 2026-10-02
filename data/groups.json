@@ -1,5 +1,24 @@
 [
   {
+    "id": "wasm-webassembly-systems-hub-reddit-20261002-1",
+    "title": "r/ClaudeAI Anthropic Community",
+    "platform": "Reddit",
+    "category": "Large Language Models",
+    "memberCount": "95,000+ members",
+    "description": "Community focused on Anthropic's Claude models, Sonnet coding workflows, artifacts, and long-context capabilities.",
+    "joinUrl": "https://www.reddit.com/r/ClaudeAI/",
+    "tags": [
+      "claude",
+      "anthropic",
+      "llm",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-02"
+  },
+  {
     "id": "wasm-webassembly-systems-hub-reddit-20261001-1",
     "title": "r/PromptEngineering Elite",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-01"
   },
   {

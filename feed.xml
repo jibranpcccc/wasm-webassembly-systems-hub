@@ -4,10 +4,17 @@
     <title>WASM &amp; WebAssembly Systems Hub</title>
     <link>https://wasm-webassembly-systems-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sat, 17 Oct 2026 06:06:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 06:06:25 GMT</lastBuildDate>
     <atom:link href="https://wasm-webassembly-systems-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                    <item>
+                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Cloud Native &amp; K8s Network (Telegram)</title>
+      <link>https://t.me/cloud_native_hub</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-telegram-20261018-1-2026-10-18</guid>
+      <pubDate>Sun, 18 Oct 2026 06:06:25 GMT</pubDate>
+      <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Updates on CNCF graduated projects, Envoy, Cilium, OpenTelemetry, and container security.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: DevOps &amp; SRE News Channel (Telegram)</title>
       <link>https://t.me/devops_channel</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-telegram-20261017-1-2026-10-17</guid>
@@ -174,12 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-forum-20260918-1-2026-09-18</guid>
       <pubDate>Fri, 18 Sep 2026 06:20:02 GMT</pubDate>
       <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
-    </item>
-<item>
-      <title>WASM &amp; WebAssembly Systems Hub Initial Release</title>
-      <link>https://wasm-webassembly-systems-hub.netlify.app/</link>
-      <pubDate>Wed, 16 Sep 2026 09:50:37 GMT</pubDate>
-      <description>Initial collection of verified communities published.</description>
     </item>
   </channel>
 </rss>

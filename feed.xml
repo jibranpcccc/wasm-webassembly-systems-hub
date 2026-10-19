@@ -4,10 +4,17 @@
     <title>WASM &amp; WebAssembly Systems Hub</title>
     <link>https://wasm-webassembly-systems-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Sun, 18 Oct 2026 06:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 06:06:29 GMT</lastBuildDate>
     <atom:link href="https://wasm-webassembly-systems-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                        <item>
+                                                                                                            <item>
+      <title>📅 Today's Fresh Pick: HashiCorp Discuss Community (Forum)</title>
+      <link>https://discuss.hashicorp.com</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-forum-20261019-1-2026-10-19</guid>
+      <pubDate>Mon, 19 Oct 2026 06:06:29 GMT</pubDate>
+      <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Official forum for Terraform modules, Vault secret management, Nomad orchestration, and Consul networking.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: Cloud Native &amp; K8s Network (Telegram)</title>
       <link>https://t.me/cloud_native_hub</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-telegram-20261018-1-2026-10-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-20260919-1-2026-09-19</guid>
       <pubDate>Sat, 19 Sep 2026 06:06:01 GMT</pubDate>
       <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Premier forum for machine learning research, theoretical papers, benchmark debates, and open-source models.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: DEV Community WebDev Hub (Forum)</title>
-      <link>https://dev.to/t/webdev</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-forum-20260918-1-2026-09-18</guid>
-      <pubDate>Fri, 18 Sep 2026 06:20:02 GMT</pubDate>
-      <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Global developer blogging and discussion platform sharing tutorials, benchmarks, and project breakdowns.</description>
     </item>
   </channel>
 </rss>

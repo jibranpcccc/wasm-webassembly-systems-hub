@@ -4,10 +4,17 @@
     <title>WASM &amp; WebAssembly Systems Hub</title>
     <link>https://wasm-webassembly-systems-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 20 Oct 2026 06:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 06:06:55 GMT</lastBuildDate>
     <atom:link href="https://wasm-webassembly-systems-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                <item>
+                                                                                                                    <item>
+      <title>📅 Today's Fresh Pick: r/selfhosted Sovereign Cloud (Reddit)</title>
+      <link>https://www.reddit.com/r/selfhosted/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-20261021-1-2026-10-21</guid>
+      <pubDate>Wed, 21 Oct 2026 06:06:55 GMT</pubDate>
+      <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Community dedicated to hosting your own software, Docker compose stacks, cloud alternatives, and privacy-preserving infrastructure.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/hardware Enthusiasts &amp; Benchmarks (Reddit)</title>
       <link>https://www.reddit.com/r/hardware/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-20261020-1-2026-10-20</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-20260921-1-2026-09-21</guid>
       <pubDate>Mon, 21 Sep 2026 06:06:10 GMT</pubDate>
       <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Vibrant discussion forum on OpenAI ChatGPT updates, prompt engineering strategies, custom GPTs, and creative workflows.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/LocalLLaMA Open Models (Reddit)</title>
-      <link>https://www.reddit.com/r/LocalLLaMA/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-20260920-1-2026-09-20</guid>
-      <pubDate>Sun, 20 Sep 2026 06:08:34 GMT</pubDate>
-      <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Leading community for running open weights LLMs locally, quantization (GGUF/AWQ), fine-tuning, and hardware benchmarks.</description>
     </item>
   </channel>
 </rss>

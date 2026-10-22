@@ -1,5 +1,24 @@
 [
   {
+    "id": "wasm-webassembly-systems-hub-reddit-20261022-1",
+    "title": "r/homelab Infrastructure Guild",
+    "platform": "Reddit",
+    "category": "Homelab & Servers",
+    "memberCount": "680,000+ members",
+    "description": "Showcase and support forum for homelab builders running enterprise rack servers, Proxmox hypervisors, ZFS storage, and 10GbE networking.",
+    "joinUrl": "https://www.reddit.com/r/homelab/",
+    "tags": [
+      "homelab",
+      "networking",
+      "proxmox",
+      "reddit"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-22"
+  },
+  {
     "id": "wasm-webassembly-systems-hub-reddit-20261021-1",
     "title": "r/selfhosted Sovereign Cloud",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-21"
   },
   {

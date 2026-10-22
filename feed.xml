@@ -4,10 +4,17 @@
     <title>WASM &amp; WebAssembly Systems Hub</title>
     <link>https://wasm-webassembly-systems-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 21 Oct 2026 06:06:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 06:06:35 GMT</lastBuildDate>
     <atom:link href="https://wasm-webassembly-systems-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                    <item>
+                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: r/homelab Infrastructure Guild (Reddit)</title>
+      <link>https://www.reddit.com/r/homelab/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-20261022-1-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 06:06:35 GMT</pubDate>
+      <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Showcase and support forum for homelab builders running enterprise rack servers, Proxmox hypervisors, ZFS storage, and 10GbE networking.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/selfhosted Sovereign Cloud (Reddit)</title>
       <link>https://www.reddit.com/r/selfhosted/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-20261021-1-2026-10-21</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-discord-20260922-1-2026-09-22</guid>
       <pubDate>Tue, 22 Sep 2026 06:06:11 GMT</pubDate>
       <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Official community server for OpenAI developers, GPT API architectures, assistants, and generative model updates.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/ChatGPT AI Community (Reddit)</title>
-      <link>https://www.reddit.com/r/ChatGPT/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-20260921-1-2026-09-21</guid>
-      <pubDate>Mon, 21 Sep 2026 06:06:10 GMT</pubDate>
-      <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Vibrant discussion forum on OpenAI ChatGPT updates, prompt engineering strategies, custom GPTs, and creative workflows.</description>
     </item>
   </channel>
 </rss>

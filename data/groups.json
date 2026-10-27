@@ -1,5 +1,24 @@
 [
   {
+    "id": "wasm-webassembly-systems-hub-discord-20261027-1",
+    "title": "Linux Users Community Discord",
+    "platform": "Discord",
+    "category": "Linux & Systems",
+    "memberCount": "62,000+ members",
+    "description": "Real-time support server for Linux server administration, bash scripting, systemd configurations, and package management.",
+    "joinUrl": "https://discord.gg/linux",
+    "tags": [
+      "linux",
+      "discord",
+      "sysadmin",
+      "server"
+    ],
+    "verified": true,
+    "featured": true,
+    "isTodaysPick": true,
+    "lastUpdated": "2026-10-27"
+  },
+  {
     "id": "wasm-webassembly-systems-hub-reddit-20261026-1",
     "title": "r/privacy Digital Rights Forum",
     "platform": "Reddit",
@@ -15,7 +34,7 @@
     ],
     "verified": true,
     "featured": true,
-    "isTodaysPick": true,
+    "isTodaysPick": false,
     "lastUpdated": "2026-10-26"
   },
   {

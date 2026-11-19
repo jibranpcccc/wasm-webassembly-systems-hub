@@ -4,10 +4,17 @@
     <title>WASM &amp; WebAssembly Systems Hub</title>
     <link>https://wasm-webassembly-systems-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 07:27:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:45:18 GMT</lastBuildDate>
     <atom:link href="https://wasm-webassembly-systems-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                <item>
+      <title>📅 Today's Fresh Pick: r/science Academic Research (Reddit)</title>
+      <link>https://www.reddit.com/r/science/</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-2-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 06:45:18 GMT</pubDate>
+      <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Peer-reviewed scientific publications, breakthroughs in computing, physics, neuroscience, and engineering.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/technology World News (Reddit)</title>
       <link>https://www.reddit.com/r/technology/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-1-2026-11-18</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-20261020-1-2026-10-20</guid>
       <pubDate>Tue, 20 Oct 2026 06:09:04 GMT</pubDate>
       <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Deep-dive technical discussions on semiconductor architectures, CPU/GPU node lithography, RAM timings, and PC components.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: HashiCorp Discuss Community (Forum)</title>
-      <link>https://discuss.hashicorp.com</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-forum-20261019-1-2026-10-19</guid>
-      <pubDate>Mon, 19 Oct 2026 06:06:29 GMT</pubDate>
-      <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Official forum for Terraform modules, Vault secret management, Nomad orchestration, and Consul networking.</description>
     </item>
   </channel>
 </rss>

@@ -4,10 +4,17 @@
     <title>WASM &amp; WebAssembly Systems Hub</title>
     <link>https://wasm-webassembly-systems-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Fri, 20 Nov 2026 06:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 07:59:55 GMT</lastBuildDate>
     <atom:link href="https://wasm-webassembly-systems-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Technology &amp; Science Discord (Discord)</title>
+      <link>https://discord.gg/tech</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-discord-4-2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 07:59:55 GMT</pubDate>
+      <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Global discussion server for engineering disciplines, scientific methodology, and emerging tech.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/linux Open Source OS (Reddit)</title>
       <link>https://www.reddit.com/r/linux/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-3-2026-11-20</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-20261022-1-2026-10-22</guid>
       <pubDate>Thu, 22 Oct 2026 06:06:35 GMT</pubDate>
       <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Showcase and support forum for homelab builders running enterprise rack servers, Proxmox hypervisors, ZFS storage, and 10GbE networking.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/selfhosted Sovereign Cloud (Reddit)</title>
-      <link>https://www.reddit.com/r/selfhosted/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-20261021-1-2026-10-21</guid>
-      <pubDate>Wed, 21 Oct 2026 06:06:55 GMT</pubDate>
-      <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Community dedicated to hosting your own software, Docker compose stacks, cloud alternatives, and privacy-preserving infrastructure.</description>
     </item>
   </channel>
 </rss>

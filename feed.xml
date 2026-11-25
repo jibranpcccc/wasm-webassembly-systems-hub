@@ -4,10 +4,17 @@
     <title>WASM &amp; WebAssembly Systems Hub</title>
     <link>https://wasm-webassembly-systems-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Tue, 24 Nov 2026 07:38:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 07:26:34 GMT</lastBuildDate>
     <atom:link href="https://wasm-webassembly-systems-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Python Official Discord (Discord)</title>
+      <link>https://discord.gg/python</link>
+      <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-discord-8-2026-11-25</guid>
+      <pubDate>Wed, 25 Nov 2026 07:26:34 GMT</pubDate>
+      <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Active real-time developer server for Python help, code reviews, algorithmic design, and package development.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: r/Python Developer Community (Reddit)</title>
       <link>https://www.reddit.com/r/Python/</link>
       <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-7-2026-11-24</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-20261026-1-2026-10-26</guid>
       <pubDate>Mon, 26 Oct 2026 06:54:03 GMT</pubDate>
       <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: Discussions on internet privacy, open-source encrypted communication, telemetry mitigation, and zero-knowledge tools.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: r/homeassistant Smart Home IoT (Reddit)</title>
-      <link>https://www.reddit.com/r/homeassistant/</link>
-      <guid isPermaLink="false">https://jibranpcccc.github.io/wasm-webassembly-systems-hub/#wasm-webassembly-systems-hub-reddit-20261025-1-2026-10-25</guid>
-      <pubDate>Sun, 25 Oct 2026 06:06:42 GMT</pubDate>
-      <description>Newly verified community added to WASM &amp; WebAssembly Systems Hub: The premier hub for local, privacy-first smart home automation using Home Assistant, Zigbee, Z-Wave, and ESPHome microcontrollers.</description>
     </item>
   </channel>
 </rss>
